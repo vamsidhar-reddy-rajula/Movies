@@ -1,1 +1,6 @@
-configs.py
+config.py
+*.xlsx
+*.csv
+*.ipynb_checkpoints
+__pycache__
+*.pyc
